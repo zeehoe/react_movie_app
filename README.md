@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This React project provide a simple movie web page, with implementation of strucured functional component, useEffect, useState, and many more.
+This React project provide a simple movie web page, with implementation of structured functional component, useEffect, useState, etc.
 
 ## Directory Explanation
 Inside directory src, the project has been structured into few directories.
