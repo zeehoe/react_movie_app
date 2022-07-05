@@ -2,6 +2,21 @@
 
 This React project provide a simple movie web page, with implementation of strucured functional component, useEffect, useState, and many more.
 
+## Directory Explaination
+Inside directory src, the project has been structured into few directories.
+
+### `assets`
+Stored raw assets like svg file, sound file, video file, etc.
+
+### `components`
+All functional JSX components will stored here. (for simple single page application, may be futher divided number of pages are becoming higher)
+
+### `css`
+stored any css file
+
+### `utils`
+stored any helper class or function, that is more likely to be used in more than on page of the application
+
 ## Available Scripts
 
 In the project directory, you can run:
