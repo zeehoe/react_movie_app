@@ -1,0 +1,1 @@
+export const API_URL_GET_MOVIE_LIST = 'http://www.omdbapi.com/?i=tt3896198&apikey=3f1f5e03'
