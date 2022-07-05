@@ -2,7 +2,7 @@
 
 This React project provide a simple movie web page, with implementation of strucured functional component, useEffect, useState, and many more.
 
-## Directory Explaination
+## Directory Explanation
 Inside directory src, the project has been structured into few directories.
 
 ### `assets`
