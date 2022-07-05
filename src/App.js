@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from 'react'
-import * as Constants from './utils/Constants'
+import * as Constants from './utils/constants'
 import './css/main.css'
 import SearchBar from './components/search_bar'
 import CardMovie from './components/card_movie'
