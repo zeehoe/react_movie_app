@@ -2,6 +2,27 @@
 
 This React project provide a simple movie web page, with implementation of structured functional component, useEffect, useState, etc. This project will also fetch API data to display movie details.
 
+## Study Note
+> Functional component is more used nowasday, compared to class component, because it is much easier to read and test because they are plain JavaScript functions without state or lifecycle-hooks. Lesser code needed.
+
+> There are 3 kinds of function: normal function, arrow function and named function
+
+> JSX is used instead of html, and it is the main ui building element of react application
+
+> Babel is used to transpire ECMAScript between version between above 2015 and below 2015
+
+> Webpack served as Loaders and plugins.
+
+> 'create-react-app' command is not the only way to initialize a react project. We can also use Babel and Webpack for the same task.
+
+> In React, everything was wrap in react fragment, example: '<> </>'
+
+> UseEffect and useState are some popular use of Hook
+
+> While using useEffect, never mutate state manually, but using their setter function
+
+> UseEffect is used to listen events or changes, and carry out any desired action.
+
 ## Directory Explanation
 Inside directory src, the project has been structured into few directories.
 
